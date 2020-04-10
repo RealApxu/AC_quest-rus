@@ -7,10 +7,10 @@
 @6    = ~Агнус~
 @7    = ~Агнус Белый~
 @8    = ~Телиэль~
-@9    = ~Телиэль Певчий Лугов~ //fand ich als Nachnahmen schцner
+@9    = ~Телиэль Певчая Лугов~ //fand ich als Nachnahmen schцner
 @10   = ~Удольф~
 @11   = ~Удольф Раукнер~
-@12   = ~Миссис Бруннштейн~ 
+@12   = ~Миссис Бруннштейн~
 @13   = ~Аарон~
 @14   = ~Аарон Бруннштейн~
 @15   = ~Призрак~
@@ -52,11 +52,11 @@ THAC0: +3 улучшение
 Требования: сила 6
 
 Не могут использовать:
-- Вор
-- Друид
-- Священник
-- Маг
-- Монах~ ~Эльфийский длинный лук Африэль
+ Вор
+ Друид
+ Священник
+ Маг
+ Монах~ ~Эльфийский длинный лук Африэль
 
 В молодости эльфийка Африэль странствовала по лесам Фаэруна и стала одной из самых великих следопытов своего времени. Не было ни одной зацепки, которую она бы упустила, и ни один преступник не чувствовал себя в безопасности пока она была на страже. Ее лесная жизнь закончилась только тогда, когда во Вратах Балдура она повстречалась с местным торговцем и влюбилась в него без памяти. Плодом этих отношений стал молодой полуэльф Первелл, и когда на Побережье Меча его похитили бандиты, Африэль отправилась в леса в последний раз. Во время этого путешествия <CHARNAME> получила ее лук в свое распоряжение.
 
@@ -71,11 +71,11 @@ THAC0: +3 улучшение
 Требования: сила 6
 
 Не могут использовать:
-- Вор
-- Друид
-- Священник
-- Маг
-- Монах~
+ Вор
+ Друид
+ Священник
+ Маг
+ Монах~
 @33   = ~Африэль~
 @34   = ~Айвелл~
 @35   = ~Вервольф~
@@ -83,30 +83,30 @@ THAC0: +3 улучшение
 @37   = ~Тело Тондера~
 @38   = ~После смерти вервольф принял человеческий облик.~
 @39   = ~Ягоды гурил~
-@40   = ~Ягоды гурил - широко используемые лечебные ягоды, которые помогают при различных болезнях. Особо популярны они в лечении 'особых' недугов, и эти ягоды часто можно найти в лавках вблизи мест обитания куртизанок.~ //"floozy" ist sehr umgangssprachlich
+@40   = ~Ягоды гурил - широко используемые лечебные ягоды, которые помогают при различных болезнях. Особо популярны они в лечении 'особых' недугов, и эти ягоды часто можно найти в лавках вблизи мест работы куртизанок.~ //"floozy" ist sehr umgangssprachlich
 @41   = ~Кровь Айвелл~
 @42   = ~Айвелл поделилась с вами своей кровью ради спасения своего мужа Тондера.~
 @43   = ~Зелье лечения ликантропии~
 @44   = ~Основной ингредиент этого зелья - лепестки белладонны.~
 @45   = ~Основной ингредиент этого зелья - ягоды гурил.~
 @46   = ~Основной ингредиент этого зелья - кровь Айвелл.~
-@47   = ~Mirror Shield +1~
-@48   = ~This shield is polished to a high gloss and obviously magical. Scratches disappear and blood and dirt simply run off of its reflective surface. It can be presumed that it can even withstand the look of a basilisk.
+@47   = ~Зеркальный щит +1~
+@48   = ~Этот щит отполирован до яркого блеска и определенно зачарован. Любые царапины, кровь и грязь просто исчезают с его зеркальной поверхности. Вполне вероятно, что он сможет защитить даже от взгляда василиска.
 
 ПАРАМЕТРЫ:
 
-The wearer is protected against all types of petrification and forms of gaze attacks.
+Обладатель получает иммунитет к любым формам окаменения и атакам взглядом.
 
 Класс защиты: +1 улучшение
 Вес: 7
 Требования: сила 12
 
 Не могут использовать:
-- Бард
-- Вор
-- Друид
-- Маг
-- Монах~
+ - Бард
+ - Вор
+ - Друид
+ - Маг
+ - Монах~
 @49   = ~Книга заклинаний Карлини~
 @50   = ~В эту книгу великий Карлини, одна из самых ярких фигур в области гномской мудрости, записал свои заклинания и умозаключения. Почерк очень сбивчивый и небрежный, и только такой же безумец, как и Карлини, сможет разобрать эти каракули.~
 @51   = ~Игнац~
@@ -118,19 +118,17 @@ The wearer is protected against all types of petrification and forms of gaze att
 @57   = ~Это шкура гибберлинга-мутанта.~
 @58   = ~Броня из кожи гибберлинга
 
-One of the byproducts of Geraldo's work with gibberlings was a high leather production. Since the painter only needed the fur for his colors, he sought a different use for the thick skin of the monsters... and found it. Unfortunately, the leather of gibberlings had some unexpected side effects and so Geraldo impatiently waited for a credulous soul to foist his experiment on.
+Одним из побочных продуктов работы Жеральдо с гибберлингами стало множество шкур. Так как для производства краски необходима лишь шерсть, он попытался найти другое применение толстой коже этих чудовищ... и преуспел в этом. К сожалению, кожа гибберлингов вызывает неожиданные побочные эффекты при ношении, и поэтому Жеральдо с нетерпением ждал, пока не найдет доверчивого дурака, которому можно будет всучить эту броню.
 
-The chroniclers are assuming that the great Geraldo laughs in his sleeve at the idea that some idiot would find this armor actually useful.
+Историки полагают, что великого Жеральдо очень веселила мысль о том, что какой-то идиот на самом деле посчитает эту броню эффективной.
 
 ПАРАМЕТРЫ:
 
-The character turns blue.
-
-Can only be removed by a 'Remove Curse' spell.
+Обладатель окрашивается в синий цвет.
 
 Класс защиты: 4
 Харизма: -3
-Resistance vs. projectile weapons: +10%
+Сопротивление метательному оружию: +10%
 Вес: 7
 Требования: сила 6
 
@@ -170,51 +168,61 @@ Resistance vs. projectile weapons: +10%
 
 Вся слава Богу и все драгоценности Змею!~ //"steal you blind" als Idiom kenne ich nicht
 @75   = ~Записи~
-@76   = ~This bundle of wrapped loose pages seems to summarize the approach of the Serpents of Abbathor to a large extent. Apparently, it was their plan from the beginning to capture an ancient dwarfish device, called Gundmagtor, which in common language means something like 'Caller of Black Souls'. The main strike of the cult seems to focus on Nashkel, and the note '<CHARNAME> has killed Mulahey, mines are free' bodes ill indeed.~
-@77   = ~This <PRO_RACE> <CHARNAME> who works for Wostok is making <PRO_HISHER> way here. Take someone of the Furious, and a Herald. The Herald shall take the Gundmagtor and bring it to us while you two wait for <CHARNAME> and take <PRO_HIMHER> to an end. Then come to us so that we can discuss the next steps.
+@76   = ~В этой стопке плохо скрепленных между собой страниц описаны замыслы Змеев Аббатора по расширению влияния. Судя по всему, их план - захватить древнее дварфийское устройство Гундмагтор, на общий язык это название можно перевести как 'Взывающий к черным душам'. Их основной удар придется на Нашкель, так как <CHARNAME> убил Мулахея и шахты оказались свободны для размещения внутри сил культа и проведения злых ритуалов.~ ~В этой стопке плохо скрепленных между собой страниц описаны замыслы Змеев Аббатора по расширению влияния. Судя по всему, их план - захватить древнее дварфийское устройство Гундмагтор, на общий язык это название можно перевести как 'Взывающий к черным душам'. Их основной удар придется на Нашкель, так как <CHARNAME> убила Мулахея и шахты оказались свободны для размещения внутри сил культа и проведения злых ритуалов.~
+@77   = ~<CHARNAME>, <PRO_RACE>, который работает на Уостока, уже идет к вам. Возьми с собой одного из Яростных и Вестника. Вестник принесет Гундмагтор нам, а вы вдвоем будете ждать, пока не придет <CHARNAME>, а потом покончите с ним раз и навсегда. После этого вы должны отправиться к нам за дальнейшими указаниями.
 
-L~
+Л.~ ~<CHARNAME>, <PRO_RACE>, которая работает на Уостока, уже идет к вам. Возьми с собой одного из Яростных и Вестника. Вестник принесет Гундмагтор нам, а вы вдвоем будете ждать, пока не придет <CHARNAME>, а потом покончите с ней раз и навсегда. После этого вы должны отправиться к нам за дальнейшими указаниями.
+
+Л.~
 @78   = ~Лугош, наш верный слуга!
 
-Мы одобряем твои старания по захвату железной шахты в Нашкеле. We welcome your effort to bring the iron mine в Нашкеле under your control. However, we do have another concern: keep an eye on <CHARNAME> from Candlekeep. The order comes from the lowest depths and you know what that means.
+Мы одобряем твои действия по захвату железной шахты в Нашкеле. Но у нас есть повод для беспокойства: <CHARNAME> из Кендлкипа. Следи за ним. Приказ поступил из самых глубин. Ты должен понимать, что это значит.
+
+Вся слава Богу и все драгоценности Змею!~ ~Лугош, наш верный слуга!
+
+Мы одобряем твои действия по захвату железной шахты в Нашкеле. Но у нас есть повод для беспокойства: <CHARNAME> из Кендлкипа. Следи за ней. Приказ поступил из самых глубин. Ты должен понимать, что это значит.
 
 Вся слава Богу и все драгоценности Змею!~
 @79   = ~Дневник Лугоша~
-@80   = ~Lugosch Grayshirt has written down his journey from a small cultist to priest of Abbathor with neat handwriting. Every line is full of confidence and arrogance. He describes how the cult took root in Amn and he himself was hired as a henchman to the Lurraxol family in Trademeet. The cult grew and soon migrated to larger cities, only to find itself kept down by the Shadow Thieves in Athkatla. Lugosch, who now had ascended to priesthood, was called away by the cult leaders to descend northwards and continue his work in Baldur's Gate.
+@80   = ~Лугош Серая Рубашка аккуратным подчерком записал в этом дневнике свой путь от мелкого культиста до жреца Аббатора. От каждой строки текста разит самоуверенностью и высокомерием. В дневнике описано, как культ обосновался в Амне, и как сам Лугош был нанят подручным семьей Люрраксол в Трейдмите. Культ начал распространять свое влияние на все более крупные города, но в итоге Теневые Воры в Аткатле остановили его разрастание. Лугош, в это время принятый в ряды жрецов, был отправлен лидерами культа на север, чтобы продолжить свою деятельность во Вратах Балдура.
 
-The last entries of the book deal with his efforts to get in touch with Mulahey in the mines of Nashkel, describe the rude denial given by the Halforc to the dwarves and his malicious glee when <CHARNAME> freed the mine. Lugosch saw his chance and led a fast strike to incorporate a smoothly running iron mine into the cult.~
+В последних записях книги Лугош описывает свои переговоры с Мулахеем в шахтах Нашкеля, то, как грубо полуорк отказал дварфам, и свое злорадство насчет того, что <CHARNAME> освободил шахту. Лугош увидел в этом возможность и быстро отправил свои силы на захват шахты в интересах культа.~ ~Лугош Серая Рубашка аккуратным подчерком записал в этом дневнике свой путь от мелкого культиста до жреца Аббатора. От каждой строки текста разит самоуверенностью и высокомерием. В дневнике описано, как культ обосновался в Амне, и как сам Лугош был нанят подручным семьей Люрраксол в Трейдмите. Культ начал распространять свое влияние на все более крупные города, но в итоге Теневые Воры в Аткатле остановили его разрастание. Лугош, в это время принятый в ряды жрецов, был отправлен лидерами культа на север, чтобы продолжить свою деятельность во Вратах Балдура.
+
+В последних записях книги Лугош описывает свои переговоры с Мулахеем в шахтах Нашкеля, то, как грубо полуорк отказал дварфам, и свое злорадство насчет того, что <CHARNAME> освободила шахту. Лугош увидел в этом возможность и быстро отправил свои силы на захват шахты в интересах культа.~
 @81   = ~Записи Эмерсона~
-@82   = ~Эмерсон, бригадир в шахтах Нашкеля, Emerson, the foreman of the Nashkel Mines, has written down his calculations and experience in this messed up cluster of papers. For someone who works in the mining industry, this jumble of information is surely a gold mine. For you, however, the notes are useless.~
+@82   = ~Эмерсон, бригадир в шахтах Нашкеля, записывал все свои расчеты и изыскания в эту беспорядочную стопку бумаг. Для тех, кто разбирается в горном деле, эта писанина - настоящая золотая жила. Но для вас эти записи абсолютно бесполезны.~
 @83   = ~Дневник~
-@84   = ~This book looks very old and has been through a lot. Some pages are torn and others pierced, some singed, and a large part of the book is smeared with blood. Even if you cannot decipher the name of the priest, it seems the old wanderer has gone through a lot - traveling with a group of adventurers, certain conflicts over the 'true' dwarf existence and finally the banishment from his clan. To the dwarf, to whom his family was above all, this loss made him first lose his mind and then drove him straight into the arms of the Serpents.~
+@84   = ~Эта книга выглядит очень старой и потрепанной. Некоторые страницы вырваны, некоторые проткнуты, а какие-то - опалены. Но большая часть книги пропиталась кровью. Вы не смогли понять имя жреца, но из того, что вы смогли прочитать вы узнаете многое о нем - как он путешествовал с группой искателей приключений, его споры насчет 'истинного' предназначения дварфов, которые, в конце концов, привели его к изгнанию из клана. Для дварфа, который ценил семью превыше всего, это стало тяжелым ударом - он лишился рассудка и попал под влияние Змеев.~
 @85   = ~Молот Башрика +2~
-@86   = ~Священник Морадина, Башрик Искрящийся Молот,The priest of Moradin, Bashrik Sparklehammer, was considered as wise and true and within the community of liberal dwarves. He continued to fight against the secession of the surface dwarves and generally relished a high reputation. This hammer, charged with the thunderbolts of Moradin, was his greatest weapon in the fight against evil.
+@86   = ~Священник Морадина, Башрик Искрящийся Молот, почитался свободными дварфами как мудрый и праведный дварф. Он боролся против раскола дварфов, живущих на поверхности, и пользовался всеобщим уважением. Этот молот, заряженный грозовой мощью Морадина, был его величайшим оружием против сил зла.
 
 ПАРАМЕТРЫ:
 
-Combat Abilities: +1 electricity damage
+Боевые особенности:
+ - При каждом успешном ударе жертва получает 1 единицу урона от электричества
+
 THAC0: +2 улучшение
-Урон:  1D4 + 3
-Damage Тип:  crushing
-Вес: 5
+Урон: 1D4 + 3
+Тип урона: дробящий
 Фактор скорости: 2
-Оружейный навык: War Hammer
-Тип:  одноручный
-Требования: сила 9 
+Оружейный навык: боевой молот
+Тип: одноручный
+Вес: 5
+Требования: сила 9
 Не могут использовать:
  Друид
- Маг 
+ Маг
  Вор~
 @87   = ~Дневник Башрика~
-@88   = ~The book is written with neat handwriting and reports the last trip of Bashrik Sparklehammer. Bashrik was on the tail of a cult that calls itself 'Змеи Аббатора'. For them, Abbathor, the only evil god among the Morndinsamman, is considered the liberator and saint patron of the dwarfkind of the surface.
+@88   = ~Книга написана аккуратным подчерком и повествует о последнем путешествии Башрика Искрящегося Молота. Башрик напал на след культа, зовущего себя 'Змеи Аббатора'. Для них Аббатор, единственный злой бог в Морндинсаммане - освободитель и божественный покровитель дварфов, живущих на поверхности.
 
-You cannot learn much more from the book because apparently, the notes of Bashrik were written primarily for the initiated. Only the last entry could offer a clue, should you want to look into the matter:
+Вы не можете понять остальные записи, так как записи Башрика предназначены для тех, что посвящен в его дела. Только последняя запись дает зацепку насчет того, где можно продолжить расследование:
 
-'I have departed from Wostok today. Mirjala and I will try our luck south, Wostok will take a look in the big city. We will meet again in the temple of Helm when I have more information.
+'Сегодня я попрощался с Уостоком и отправился в дорогу. Мы и Мирджалой попробуем продолжить поиски на юге, а Уосток начнет расследование в большом городе. Мы договорились встретиться с ним в храме Хелма, когда я соберу больше информации.
 
-Addendum: After racking the assassin who awaited us at the Friendly Arm Inn I have learned a name, at least. A certain Draglon appears in the Undercellars to regulate the affairs of the cult. Well, I will delay that until my return.'
+Послесловие: После того, как я разобрался с убийцей, который ждал нас в гостинице Дружеская Рука, я наконец узнал хоть что-то - имя. Некий Драглон занимается делами культа в Нижнем Погребе. Я разберусь с этим после того, как вернусь.
 
-(If you want to investigate the cult and what it's about, it will be of advantage to keep this book.)~
+(Если вы хотите расследовать культ и его замыслы, вам стоит придержать книгу при себе)~
 @89   = ~Артефакт~
 @90   = ~Дварфийский артефакт~
 @91   = ~Вы не знаете, для чего именно используется этот артефакт. Но за ним охотятся Змеи Аббатора, и этой информации вам достаточно.~
@@ -235,7 +243,7 @@ Addendum: After racking the assassin who awaited us at the Friendly Arm Inn I ha
 @104  = ~Галдер~
 @105  = ~Терк~
 @106  = ~Яргер~
-@107  = ~Яргер ГолдбартJarger Goldbart~
+@107  = ~Яргер Голдбарт~
 @108  = ~Уосток~
 @109  = ~Уосток Молотоголов~
 @110  = ~Джассир~
@@ -247,14 +255,14 @@ Addendum: After racking the assassin who awaited us at the Friendly Arm Inn I ha
 @116  = ~Рон~
 @117  = ~Хэнк~
 @118  = ~Змеи Аббатора~
-@119  = ~Лугош и его подельники мертвы, и шахты Нашкеля свободны от его злодейств.Lugosch and his men are dead and the Nashkel Mines are freed from their evil. However, this victory has raised more questions than it has given answers. Are the dwarves who have joined the cult actually nothing more than outcasts looking for a new home? If so, why do the men of the Serpents request so firmly and vehemently for your death? These are questions to which there is no answer because the track you followed ends here. All that remains for you to do now is talk to Emerson and report that the mines are again free - and hope that everything will work out at some point.~
+@119  = ~Лугош и его подельники мертвы, и шахты Нашкеля свободны от его злодейств. Но эта победа принесла вопросов больше, чем ответов. Неужели все эти дварфы, примкнувшие к культу были всего-лишь изгнанниками, ищущими новый дом? Если это так, то почему Змеи так уверенно и страстно желали вашей смерти? Эти вопросы останутся без ответа, потому что след, по которому вы следовали, обрывается здесь. Вам остается только поковорить в Эмерсоном и рассказать ему о том, что шахты снова свободны, и надеяться на то, что с этого момента здесь все будет в порядке.~
 @120  = ~Яср~
 @121  = ~Яс~
 @122  = ~Йен~
 @123  = ~Эмми Вайснер~
 @124  = ~Бунгер~
 
-@5000 = ~Hey there! A word, if you please!~
+@5000 = ~Эй! Можно тебя на пару слов?~
 @5001 = ~Прошу! Мне нужна помощь!~
 @5002 = ~Помогите, ради богов!~
 @5003 = ~Почему никто не может мне помочь!~
@@ -263,17 +271,17 @@ Addendum: After racking the assassin who awaited us at the Friendly Arm Inn I ha
 @5006 = ~У-а-а-а-а-а-а-а-а-а-а-а-а-а-а-а!~
 @5007 = ~Уходи, сейчас же!~
 @5008 = ~Я знаю, что ты дома!~
-@5009 = ~You nasty piece of work!~ //Fucking bastard war mir etwas zu heftig
-@5010 = ~And that is that. Would you excuse me now, I have things to do.~
+@5009 = ~Ну ты и гадина!~ //Fucking bastard war mir etwas zu heftig
+@5010 = ~Вот и все. А теперь прошу меня простить, у меня есть дела.~
 @5011 = ~Засада!~
-@5012 = ~Bunch of ignorants...~
+@5012 = ~Кучка безграмотных...~
 @5013 = ~...непонятное бурчание...~
-@5014 = ~And they call themselves adventurers...~
+@5014 = ~И еще смеют называть себя искателями приключений...~
 @5015 = ~Бирраболлос ко валла алламатилло!~
 @5016 = ~Что за...~
 @5017 = ~Мама!~
-@5018 = ~Adventurer! Hello!~
-@5019 = ~Come over here!~
+@5018 = ~Искатель приключений! Приветствую!~
+@5019 = ~Подойди сюда!~
 @5020 = ~Нам нужно поговорить!~
 @5021 = ~ЧИРИК!~
 @6000 = ~Не оставляй меня здесь!~
@@ -283,7 +291,7 @@ Addendum: After racking the assassin who awaited us at the Friendly Arm Inn I ha
 
 @10001 = ~Разбойные Рубаки Раукнера
 
-I've roughed up a militant group of adventurers in Beregost.~
+В Берегосте между мной и агрессивной группой искателей приключений произошла стычка.~
 @10002 = ~Разбойные Рубаки Раукнера
 
 У меня не получилось помочь группе искателей приключений в Берегосте.~
@@ -327,22 +335,22 @@ I've roughed up a militant group of adventurers in Beregost.~
 Я не нашла Первелла в шахтах... Надеюсь он смог выбраться вместе с остальными рабами до затопления.~
 @10011 = ~Змеи Аббатора в Нашкеле?
 
-In the headquarters of the Serpents I've learned some bad news: Their initial plan was, apparently, to capture an ancient dwarven device called Gundmagtor, which translated into common language means something like 'Caller of the black souls'. The main stroke of the cult seems to focus on Nashkel.~
+В штаб-квартире Змеев мне открылись печальные вести: их изначальным планом являлся захват древнего дварфийского устройства Гундмагтор, на общий язык это название можно перевести как 'Взывающий к черным душам'. Главный удар культа должен прийтись на Нашкель.~
 @10012 = ~Змеи Аббатора в Нашкеле - Лугош
 
-Lugosch, the leader of the Serpents of Abbathor from Baldur's Gate, is on site in the Nashkel Mines. There will be no escape for him this time.~
+Лугош, лидер Змеев Аббатора во Вратах Балдура, сейчас находится в шахтах Нашкеля. Теперь он никуда не убежит.~
 @10013 = ~Змеи Аббатора в Нашкеле - теневые дварфы
 
-Apparently we have learned what the use of the Gundmagtor is. It calls forth some kind of shadow warriors who are under the domination of the user. I must conquer or destroy this device.~
+Теперь мне известно, как работает Гундмагтор. Он призывает каких-то теневых воинов, подконтрольных владельцу. Мне нужно уничтожить устройство или забрать его себе.~
 @10014 = ~Змеи Аббатораs в Нашкеле - пропавшие шахтеры
 
-There still seem to be a few miners in the pit.~
+Похоже, что в яме осталось несколько шахтеров.~
 @10015 = ~Змеи Аббатора в Нашкеле - чудовища
 
-The Serpents seem to have brought a couple of giant monsters into the mine. That would surely disturb mining.~
+Змеи привели несколько огромных чудовищ в шахту. Это точно прервет работу шахты.~
 @10016 = ~Змеи Аббатора в Нашкеле - записи Эмерсона
 
-Emerson is missing his notes since the attack of the Serpents of Abbathor.~
+Во время атаки Змеев Аббатора Эмерсон потерял свои записи.~
 @10017 = ~Змеи Аббатора в Нашкеле - чудовища
 
 Я убил двух бурых увальней, которых Змеи притащили в шахту.~ ~Змеи Аббатора в Нашкеле - чудовища
@@ -358,16 +366,18 @@ Emerson is missing his notes since the attack of the Serpents of Abbathor.~
 У меня получилось спасти пропавших шахтеров из лап безумного священника. Эмерсон будет рад узнать об этом.~
 @10020 = ~Змеи Аббатора
 
-У меня получилось остановить I could stop the advance of the Serpents in the area of Baldur's Gate, at least I hope so. Lugosch Grayshirt is dead and I have no informations about any other leaders of the cult. But I cannot say why my own name was mentioned so explicitly. Maybe one day I'll find out this secret - whether I like the answer I do not know.~
+У меня получилось остановить продвижение Змеев в окрестносях Врат Балдура, по крайней мере я на это надеюсь. Лугош Серая Рубашка мертв и у меня нет информации об остальных лидерах культа. Я до сих пор не могу понять, почему мое имя так часто упоминалось в их записях. Может быть, когда-нибудь я узнаю ответ на этот вопрос - понравится он мне или нет.~
 @10021 = ~Мертвый дварф и послание
 
-In Mulahey's cellars I found a dead dwarf who had a message for Mulahey - apparently the receiver was not particularly interested in what the messenger had to say. The message speaks of a meeting in Beregost. Maybe I should go investigate this matter.~
+В пещере Мулахея я нашел мертвого дварфа, у которого было для него сообщение - похоже его получатель не был заинтересован в том, что хотел предложить ему посыльный. В сообщении упоминается встреча в Берегосте. Возможно мне стоит это расследовать.~ ~Мертвый дварф и послание
+
+В пещере Мулахея я нашла мертвого дварфа, у которого было для него сообщение - похоже его получатель не был заинтересован в том, что хотел предложить ему посыльный. В сообщении упоминается встреча в Берегосте. Возможно мне стоит это расследовать.~
 @10022 = ~Таинственный дварф в Берегосте
 
-Тараш Черный Шлем Tarash Blackhelmet was extremely suspicious and aggressive - I had to kill him. Among his possessions there was a letter pointing out that there will be an assassination north of the city...~
+Тараш Черный Шлем оказался слишком агрессивным и подозрительным, и мне пришлось его убить. Среди его пожитков было письмо, в котором упоминалось планирование убийтва к северу от Берегоста...~
 @10023 = ~Таинственный дварф в Берегосте
 
-Tarash Blackhelmet spoke of the "Serpents of Abbathor" - whoever they might be. And he said that something is going to happen north of Beregost... I should keep an eye on the Crossroads.~
+Тараш Черный Шлем рассказал мне о "Змеях Аббатора", кем бы они не были. А еще он сказал мне, что к северу от Берегоста должно что-то произойти... Мне стоит посмотреть, что происходит на перекрестке.~
 @10024 = ~Пропавший сын
 
 Я рассказал госпоже Бруннштейн о том, что ее сын мертв.~ ~Пропавший сын
@@ -389,10 +399,14 @@ Tarash Blackhelmet spoke of the "Serpents of Abbathor" - whoever they might be. 
 Эльфийка Африэль ищет своего сына Первелла в лесу Клоаквуда. Бандиты похитили его и увели в какое-то тайное место.~
 @10029 = ~Поиски Первелла
 
-I've actually found Perwell in the mine and sent him out. On the one hand, I could certainly bring him through the woods... but on the other hand Aphriel could pay me a good ransom for the little one...~
+Я нашел Первелла в шахте и отправил его на поверхность. С одной стороны я могу просто вывести его из леса... но с другой стороны Африэль будет готова заплатить немалую сумму за информацию о ее сыне...~ ~Поиски Первелла
+
+Я нашла Первелла в шахте и отправил его на поверхность. С одной стороны я могу просто вывести его из леса... но с другой стороны Африэль будет готова заплатить немалую сумму за информацию о ее сыне...~
 @10030 = ~Поиски Первелла
 
-I've actually found Perwell in the mine and sent him out. I have no time to mess about with children.~ //"struggle klang so, als wolle der PC mit ihm kдmpfen
+Я нашел Первелла в шахте и отправил его на поверхность. Я не собираюсь тратить время на возню с детьми.~ ~Поиски Первелла
+
+Я нашла Первелла в шахте и отправил его на поверхность. Я не собираюсь тратить время на возню с детьми.~ //"struggle klang so, als wolle der PC mit ihm kдmpfen
 @10031 = ~Поиски Первелла
 
 Африэль отправилась на поиски сына. По крайней мере у меня получилось спасти его из шахты.~
@@ -401,12 +415,12 @@ I've actually found Perwell in the mine and sent him out. I have no time to mess
 Африэль и ее сын рады снова быть вместе.~
 @10033 = ~О волках и людях
 
-Муж волшебницы Айвелл болен ликантропией. У меня есть два варианта решения этой проблемы: использовать зелье, которое может сделать Талантир, или The husband of the mage Aiwell seems to have been infected with Lycanthropy. I probably have two options to solve the problem: Either with a potion I can get from Thalantyr, or the old fashioned sword solution.~
+Муж волшебницы Айвелл болен ликантропией. У меня есть два варианта решения этой проблемы: использовать зелье, которое может сделать Талантир, или справиться с помощью оружия.~
 @10034 = ~О волках и людях
 
-Thalantyr has enumerated several ways. He can mix the potion with Aiwell's blood, which is highly questionable. Or he can use Guril berries that do not always work. The best would be an elixir of belladonna. He also told us that he'll only be able to brew one of the potions.
+Талантир предложил несколько рецептов лекарства. Он может изготовить его на основе крови Айвелл, но эффективность данного средства сомнительна. Можно использовать ягоды гурил, но такое зелье работает не всегда. Лучше всего будет использовать лепестки белладонны. Талантир также сказал, что он сможет изготовить только одно из этих зелий.
 
-I could also bring him the corpse of Tonder so that he can better understand the werewolf disease.~
+Еще я могу принести ему труп Тондера для того, чтобы он изучил его и мог пополнить свои знания о ликантропии.~
 @10035 = ~О волках и людях
 
 Талантир с радостью обменял тело Тондера на пламенный меч. Не самый плохой итог.~
@@ -417,241 +431,262 @@ I could also bring him the corpse of Tonder so that he can better understand the
 /* new for v2.05 */
 @10037 = ~О волках и людях
 
-A woman shouted at me in front of Thalantyr's abode, but I am not sure what she was referring to. Maybe it had something to do with the werewolf I killed inside the house nearby?~
+Перед жилищем Талантира на меня начала кричать какая-то женщина, но я не совсем понял, что именно она имела в виду. Может это все связано с тем вервольфом, которого я убил в доме неподалеку?~ ~О волках и людях
+
+Перед жилищем Талантира на меня начала кричать какая-то женщина, но я не совсем поняла, что именно она имела в виду. Может это все связано с тем вервольфом, которого я убила в доме неподалеку?~
 
 @10038 = ~О волках и людях
 
-Я решил изготовить лечебное зелье из ягод гурил. Теперь осталось найти способ I decided for the healing potion out of Guril berries. Now all that is left to do is to give it to the werewolf somehow.~
+Я решил изготовить лечебное зелье из ягод гурил. Теперь осталось найти способ заставить вервольфа принять его.~ ~О волках и людях
+
+Я решила изготовить лечебное зелье из ягод гурил. Теперь осталось найти способ заставить вервольфа принять его.~
 
 @10039 = ~О волках и людях
 
-I decided for the healing potion out of Aiwell's blood. Now all that is left to do is to give it to the werewolf somehow.~
+Я решил изготовить лечебное зелье из крови Айвелл. Теперь осталось найти способ заставить вервольфа принять его.~ ~О волках и людях
+
+Я решила изготовить лечебное зелье из крови Айвелл. Теперь осталось найти способ заставить вервольфа принять его.~
 
 @10040 = ~О волках и людях
 
-I decided for the healing potion out of belladonna. Now all that is left to do is to give it to the werewolf somehow.~
+Я решил изготовить лечебное зелье из белладонны. Теперь осталось найти способ заставить вервольфа принять его.~ ~О волках и людях
+
+Я решила изготовить лечебное зелье из белладонны. Теперь осталось найти способ заставить вервольфа принять его.~
 
 @10041 = ~О волках и людях
 
-Проклятие, лечебное зелье не сработало, и мне пришлось убить вервольфа. Наверно мне стоит сообщить Айвелл печальные вести...~
+Проклятье, лечебное зелье не сработало, и мне пришлось убить вервольфа. Наверно, мне стоит сообщить Айвелл печальные вести...~
 
 @10042 = ~О волках и людях
 
-Aiwell was sad indeed when she heard about her husband's death. She went away without leaving a trace...~
+Айвелл действительно расстроилась, когда услышала о смерти своего мужа. Она ушла не оставив и следа...~
 
 @10043 = ~О волках и людях
 
-Какой ужасный день. Айвелл потеряла мужа, ее муж... умер, Талантир не смог добыть тело вервольфа для исследований, а я не получил никакой награды за свои труды.What a fruitless day. Aiwell lost her husband, the husband is... well, dead, Thalantyr didn't get a werewolf corpse for his research, and I didn't get a reward for my efforts. Next time, I really need to watch where I put my trophies!~
+Какой ужасный день. Айвелл потеряла мужа, ее муж... умер, Талантир не смог добыть тело вервольфа для исследований, а я не получил никакой награды за свои труды. В следующий раз надо будет лучше следить за тем, куда я кладу свои трофеи!~ ~О волках и людях
+
+Какой ужасный день. Айвелл потеряла мужа, ее муж... умер, Талантир не смог добыть тело вервольфа для исследований, а я не получила никакой награды за свои труды. В следующий раз надо будет лучше следить за тем, куда я кладу свои трофеи!~
 
 @20001 = ~Культ Незрячего Ока - Бунгер Вайснер
 
-The halfling lady Emmi Wiesner has downright begged us to look for her son, who was drawn into the clutches of the Cult.~ //"to look after" kenne ich als "sich kьmmern um"
+Полурослица Эмми Вайснер умоляет меня отправиться на поиски своего сына, который попал в лапы культа.~ //"to look after" kenne ich als "sich kьmmern um"
 @20002 = ~Культ Незрячего Ока - Бунгер Вайснер
 
-I've found Bunger and persuaded him to come with me. He will remain quiet until I have banished the danger posed by the Cult.~
+Я нашел Бунгера и убедил его пойти со мной. Он будет тихо ждать, пока я не избавлюсь от угрозы, которую представляет культ.~ ~Культ Незрячего Ока - Бунгер Вайснер
+
+Я нашла Бунгера и убедила его пойти со мной. Он будет тихо ждать, пока я не избавлюсь от угрозы, которую представляет культ.~
 @20003 = ~Культ Незрячего Ока - Бунгер Вайснер
 
-I've found Bunger and persuaded him to flee. However, the cult has been alerted by that.~
+Я нашел Бунгера и убедил его сбежать. Но культ заметил попытку побега.~ ~Культ Незрячего Ока - Бунгер Вайснер
+
+Я нашла Бунгера и убедила его сбежать. Но культ заметил попытку побега.~
 @20004 = ~Культ Незрячего Ока - Бунгер Вайснер
 
-I've found Bunger. He was, unfortunately, unapologetic and alerted the rest of the cult. I had to kill him.~
+Я нашел Бунгера. К сожалению, он был непреклонен и выдал меня культу. Мне пришлось убить его.~ ~Культ Незрячего Ока - Бунгер Вайснер
+
+Я нашла Бунгера. К сожалению, он был непреклонен и выдал меня культу. Мне пришлось убить его.~
 @20005 = ~Культ Незрячего Ока - Бунгер Вайснер
 
-In an attempt to save himself, Бунгер Вайснер died under the city.~
+В попытке спастись Бунгер Вайснер погиб в подземельях под городом.~
 @20006 = ~Культ Незрячего Ока - Бунгер Вайснер
 
-Бунгер Вайснер вернулся к своей матери.has returned to his mother. The old lady surely will want to thank us.~
+Бунгер Вайснер вернулся к своей матери. Она будет рада отблагодарить меня.~
 @20023 = ~Таинственное предложение
 
-Гонец принес мне приглашение от своего господина. A messenger has brought me an invitation from his master. Although he will keep his name secret, he somehow has an interest in me. If I want to get involved in a meeting than I'll meet the messenger in the Copper Coronet.~
+Гонец принес мне приглашение от своего господина. Хоть посланник и оставил его имя в тайне, меня заинтересовало его предложение. Если я захочу организовать встречу, то мне нужно будет поговорить с гонцом в Медной Короне.~
 
 
 //BG:EE Compatibility
 
 //Strings from Original BG2 for Setup-AC_QUEST.tra
-@80001 = ~ Somebody help me!~ [PEASF09] //#61667
+@80001 = ~ Кто-нибудь! Помогите!~ [PEASF09] //#61667
 @80002 = ~~ [PEASF07] //#61665
 @80003 = ~~ [PEASF08] //#61666
-@80004 = ~I thank the gods every day for the good things in my life.~ [PEASF02] //##61660
-@80005 = ~ Aaahhhh.........run!~ [PEASM09] //#61823
+@80004 = ~Я благодарю богов за то хорошее, что есть в моей жизни.~ [PEASF02] //##61660
+@80005 = ~А-а-а-а... бежим!~ [PEASM09] //#61823
 @80006 = ~~ [PEASM07] //#61821
 @80007 = ~~ [PEASM08] //#61822
-@80008 = ~I'll trade you a few words, sure enough.~ [PEASM03] //#61817
+@80008 = ~Я скажу те пару слов, эт точно.~ [PEASM03] //#61817
 @80009 = ~~ [WWOLF07] //#11393
-@80010 = ~Greetings. Your power impresses.~ [EPRIM01] //#61614
+@80010 = ~Приветствую. Твоя сила впечатляет.~ [EPRIM01] //#61614
 @80011 = ~~ [EPRIM06] //#61619
 @80012 = ~~ [EPRIM07] //#61620
-@80013 = ~The gods are unforgiving, fool!~ [EPRIM04] //#61617
-@80014 = ~Bow down before the gods and beg for mercy!~ [EPRIM03] //#61616
-@80015 = ~What do you want amongst the faithful?~ [EPRIM02] //#61615
-@80016 = ~I'm... not supposed to talk to strangers.~ [CHILF04] //#61556
+@80013 = ~Боги не прощают, тупица!~ [EPRIM04] //#61617
+@80014 = ~Поклонись богам и умоляй о пощаде!~ [EPRIM03] //#61616
+@80015 = ~Чего ты хочешь от верующих?~ [EPRIM02] //#61615
+@80016 = ~Мне... нельзя разговаривать с незнакомыми.~ [CHILF04] //#61556
 @80017 = ~~ [CHILF06] //#61558
-@80018 = ~Ummm... hello.~ [CHILF03] //#61555
-@80019 = ~Well, you look like the sort who has more than two gold pieces to rub together!~ [MALMER03] //#38784
+@80018 = ~М-м... привет.~ [CHILF03] //#61555
+@80019 = ~Ну что ж, ты выглядишь так, будто у тебя денег куры не клюют.~ [MALMER03] //#38784
 @80020 = ~~ [MALMER06] //#38847
 @80021 = ~~ [MALMER05] //#38786
-@80022 = ~Have a look at my wares, I trust you'll find them all in satisfactory condition.~ [MALMER02] //#38783
-@80023 = ~Don't hurt me!~ [CHILM07] //#61567
+@80022 = ~Взгляни на мои товары, и ты, конечно, согласишься, что они все в приличном состоянии.~ [MALMER02] //#38783
+@80023 = ~Не трогай меня!~ [CHILM07] //#61567
 @80024 = ~~ [CHILM05] //#61565
 @80025 = ~~ [CHILM06] //#61566
-@80026 = ~Wow!  An adventurer!~ [CHILM03] //#61563
-@80027 = ~You ain't from around here!  I knows it!~ [CHILM02] //#61562
-@80028 = ~Well, I certainly don't like the look of you.~ [PEASF306] //#61683
+@80026 = ~Ух ты! Искатель приключений!~ [CHILM03] //#61563
+@80027 = ~Ты не отсюда! Я знаю, знаю!~ [CHILM02] //#61562
+@80028 = ~В общем, ты мне совершенно не нравишься.~ [PEASF306] //#61683
 @80029 = ~~ [PEASF307] //#61684
 @80030 = ~~ [PEASF308] //#61685
-@80031 = ~Speak.~ [ACFEM4H] //#16255
-@80032 = ~Mmmmmm, yes?~ [GNOMEM03] //#61703
+@80031 = ~Говори.~ [ACFEM4H] //#16255
+@80032 = ~М-м-м, да?~ [GNOMEM03] //#61703
 @80033 = ~~ [GNOMEM06] //#61706
 @80034 = ~~ [GNOMEM07] //#61707
-@80035 = ~Balor~ //#8449
-@80036 = ~I don't usually speak to the likes of you, but hello.~ [NOBFE03] //#61643
+@80035 = ~Балор~ //#8449
+@80036 = ~Обычно я не говорю с подобными тебе, но... привет.~ [NOBFE03] //#61643
 @80037 = ~~ [NOBFE07] //#61647
 @80038 = ~~ [NOBFE08] //#61648
-@80039 = ~Orc Leather +3~ //#6365
-@80040 = ~Mutated Gibberling~ //#2286
-@80041 = ~Skeleton Archer~ //#73272
-@80042 = ~These swords are usually referred to as doubled-edged swords, war swords, or military swords.  In many cases, the long sword has a single-edged blade. There is no single version of the long sword; the design and length vary from culture to culture, and may vary within the same culture depending on the era.  Among the most common characteristics of all long swords is their length, which ranges from 35 inches to 47 inches.  In the latter case, the blade is known to take up 40 inches of the total length.  Most long swords have a double-edged blade and a sharp point at the tip.  Despite the tip, the long sword is designed for slashing, not thrusting. 
+@80039 = ~Орочья кожа +3~ //#6365
+@80040 = ~Гибберлинг-мутант~ //#2286
+@80041 = ~Скелет-лучник~ //#73272
+@80042 = ~Такие мечи иногда называют обоюдоострыми, боевыми или солдатскими мечами. Часто лезвие длинных мечей имеет и одностороннюю заточку. Не существует единого стандарта длинного меча, их форма и длина зависит от места, а в большинстве культур и от эпохи изготовления. Одной из наиболее общих характеристик для таких мечей является их длина, она колеблется от тридцати пяти до сорока семи дюймов. В последнем случае лезвие достигает сорока дюймов от общей длины меча. Наиболее широко распространены мечи, имеющие обоюдоострое лезвие, заточенное к концу. Несмотря на это длинные мечи предназначены для рубящих, а не колющих ударов.
 
 ПАРАМЕТРЫ:
 
-Урон:  1D8
-Damage Тип:  slashing
-Вес: 4
-Фактор скорости: 5
-Оружейный навык: длинный меч
-Тип:  одноручное
-Требования: сила 6~ //#6742
-@80043 = ~This blade burns with a magical fire, and a charring blast is released whenever a hit is scored.  "Meta Infernum" is etched on the hilt, though it appears somewhat faded and may not be original to the sword.
-
-ПАРАМЕТРЫ:
-
-THAC0: +1 улучшение
-Урон:  1D8 +1, +1 fire damage
-Damage Тип:  slashing
-Вес: 4
-Фактор скорости: 5
-Оружейный навык: длинный меч
-Тип:  одноручное
-Требования: сила 6~ //#4421
-@80044 = ~длинный меч~ //#2893
-@80045 = ~Sword of Flame +1~ //#4422
-@80046 = ~These swords are usually referred to as doubled-edged swords, war swords, or military swords.  In many cases, the long sword has a single-edged blade. There is no single version of the long sword; the design and length vary from culture to culture, and may vary within the same culture depending on the era.  Among the most common characteristics of all long swords is their length, which ranges from 35 inches to 47 inches.  In the latter case, the blade is known to take up 40 inches of the total length.  Most long swords have a double-edged blade and a sharp point at the tip.  Despite the tip, the long sword is designed for slashing, not thrusting. 
-
-ПАРАМЕТРЫ:
-
-Урон:  1D8
-Damage Тип:  slashing
-Вес: 4
-Фактор скорости: 5
-Оружейный навык: длинный меч
-Тип:  одноручное
-Требования: сила 6
-Не могут использовать:
- Друид
- Священник
- Маг~ //#6742
-@80047 = ~This blade burns with a magical fire, and a charring blast is released whenever a hit is scored.  "Meta Infernum" is etched on the hilt, though it appears somewhat faded and may not be original to the sword.
-
-ПАРАМЕТРЫ:
-
-THAC0: +1 улучшение
-Урон:  1D8 +1, +1 fire damage
-Damage Тип:  slashing
-Вес: 4
+Урон: 1d8
+Тип урона: рубящий
 Фактор скорости: 5
 Оружейный навык: длинный меч
 Тип: одноручное
 Требования: сила 6
+
+Вес: 4~ //#6742
+@80043 = ~Этот клинок пылает магическим огнём, и при каждом успешном попадании из него вырывается раскалённое пламя. «Мета Инфернум» – вытравлено на рукояти, хотя надпись несколько поблекла и, возможно, была нанесена позднее.
+
+ПАРАМЕТРЫ:
+
+ТНАС0: +1
+Урон: 1d8+1, +1 огненного урона
+Тип урона: рубящий
+Фактор скорости: 4
+Навык: длинный меч
+Тип: одноручное
+Требования:
+ Сила 6
+
+Вес: 4~ //#4421
+@80044 = ~Длинный меч~ //#2893
+@80045 = ~Меч пламени +1~ //#4422
+@80046 = ~Такие мечи иногда называют обоюдоострыми, боевыми или солдатскими мечами. Часто лезвие длинных мечей имеет и одностороннюю заточку. Не существует единого стандарта длинного меча, их форма и длина зависит от места, а в большинстве культур и от эпохи изготовления. Одной из наиболее общих характеристик для таких мечей является их длина, она колеблется от тридцати пяти до сорока семи дюймов. В последнем случае лезвие достигает сорока дюймов от общей длины меча. Наиболее широко распространены мечи, имеющие обоюдоострое лезвие, заточенное к концу. Несмотря на это длинные мечи предназначены для рубящих, а не колющих ударов.
+
+ПАРАМЕТРЫ:
+
+Урон: 1d8
+Тип урона: рубящий
+Фактор скорости: 5
+Оружейный навык: длинный меч
+Тип: одноручное
+Требования: сила 6
+Вес: 4
+Не могут использовать:
+ Друид
+ Священник
+ Маг~ //#6742
+@80047 = ~Этот клинок пылает магическим огнём, и при каждом успешном попадании из него вырывается раскалённое пламя. «Мета Инфернум» – вытравлено на рукояти, хотя надпись несколько поблекла и, возможно, была нанесена позднее.
+
+ПАРАМЕТРЫ:
+
+ТНАС0: +1
+Урон: 1d8+1, +1 огненного урона
+Тип урона: рубящий
+Фактор скорости: 4
+Навык: длинный меч
+Тип: одноручное
+Требования:
+ Сила 6
+Вес: 4
 Не могут использовать:
  Друид
  Священник
  Маг~ //#4421
 
-@80048 = ~Magical slings are the hallmark of stout halfling warriors. Usually their mothers or a talented aunt will create this sling for the halfling lad or lass who is about to embark on their second great adventure. The reason that the sling is given on the second adventure and not the first is that many halflings decide not to pursue the life of an adventurer after getting a taste of it.
+@80048 = ~Магические пращи очень популярны среди отважных полуросликов. Как правило, мама или одарённая тётушка изготавливает такую пращу для юноши или девушки, отправляющихся в своё второе великое путешествие. Во второе – потому, что первое для большинства заканчивается твёрдым решением не искать больше никаких приключений.
 
 ПАРАМЕТРЫ:
 
-THAC0: +2
+ТНАС0: +2
 Урон: +2 (метательный)
 Фактор скорости: 4
-Оружейный навык: праща
+Навык: праща
 Тип: одноручное
-Требования: сила 3
+Требования:
+ Сила 3
 
 Вес: 0~//#619
-@80049 = ~Whether by design or through exposure to intense heat in battle, the chain links of this armor are coal black throughout. While legends usually speak of knights in shining armor facing great beasts, the fire resistant enchantment on this suit suggests equally great, if unheralded, battles with fire-breathing creatures.
+@80049 = ~Было ли так задумано или его опалило огнём в битве, но кольца этого доспеха угольно-чёрные по всей поверхности. Хотя в легендах огромным бестиям обычно противостоят рыцари в сверкающих доспехах, чары сопротивления огню на этой кольчуге предполагают не менее великие, пусть и не воспетые, битвы с огнедышащими созданиями.
 
 ПАРАМЕТРЫ:
 
-Equipped abilities:
-– Fire Resistance: +20%
+Свойства экипировки:
+– Сопротивление огню: +20%
 
-Класс защиты: 2 (0 vs. slashing, 4 vs. crushing)
+Класс защиты: 2 (0 против рубящего, 4 против дробящего)
 Требования:
- 8 Strength
+ Сила 8
 
 Вес: 9~//#39557
-@80050 = ~Robe of the Apprenti~//#37573	
-@80051 = ~This robe was created by your apprentices, working busily away within the planar sphere.
+@80050 = ~Мантия ученика~//#37573
+@80051 = ~Эта мантия была сделана твоими учениками, упорно трудившимися в планарной сфере.
 
 ПАРАМЕТРЫ:
 
-Equipped abilities:
+Свойства экипировки:
 – Класс защиты: 3
 
-Вес: 3~//#39649	
-@80052 = ~Hammer of Thunderbolts +3~//#7781
-@80053 = ~A dwarven smith, Silverblade, forged this hammer and two other items: a girdle of frost giant strength and a pair of gauntlets of ogre power. His intention was to gift them to his son, who was then a high officer in the dwarven armies, fighting the giant and ogre tribes of the area. Unfortunately, Silverblade's son died just after the completion of the three items and before they could be gifted to him. In grief, Silverblade himself donned the girdle and the gauntlets. Taking up the Hammer of Thunderbolts, he went to battle against the giant folk. He died valiantly.
+Вес: 3~//#39649
+@80052 = ~Молот-громобой +3~//#7781
+@80053 = ~Этот молот и два других предмета – пояс силы морозного великана и рукавицы силы огра – создал дварфийский кузнец Сильверблейд. Он собирался подарить их своему сыну, который был офицером высокого ранга в армии дварфов, сражавшейся с великанами и ограми в регионе. К несчастью, сын кузнеца погиб вскоре после того, как все три вещи были закончены, и отец не успел передать ему свой дар. Убитый горем, Сильверблейд сам надел пояс и рукавицы, взял молот и отправился сражаться с великанами. Он погиб как герой.
 
-Alone, the Hammer of Thunderbolts is a powerful magical weapon, but when merged with the gauntlets of ogre power and the girdle of frost giant strength, the hammer is transformed. This transformation requires magical assistance. The Hammer of Thunderbolts is then capable of doing an additional +8 damage as well as instantly killing any giant or ogre that it strikes.
+Молот-громобой – сам по себе могучее магическое оружие, но когда он объединяется с рукавицами и поясом, он преображается. Преображение требует магической помощи. После этого Молот-громобой получает дополнительно +8 к урону, а также способность моментально убивать любого огра или великана, по которому попадает.
 
 ПАРАМЕТРЫ:
 
-THAC0: +3
-Урон: 2d4+3 (crushing)
+ТНАС0: +3
+Урон: 2d4+3 (дробящий)
 Фактор скорости: 1
-Оружейный навык: War Hammer
+Навык: боевой молот
 Тип: одноручное
 Требования:
- 18 Strength
+ Сила 18
 
 Вес: 4~//#39444
-@80054 = ~Guild House Key~ //#54030
-@80055 = ~This is the key to the lower levels of Lady Galvena's Festhall, the Courtesan's Guild.
+@80054 = ~Ключ гильдии~ //#54030
+@80055 = ~Это ключ к нижним этажам весёлого дома леди Гальвены, где располагается Гильдия куртизанок.
 
 ПАРАМЕТРЫ:
 
 Вес: 0~ //#1091
-@80056 = ~The Night's Gift +5~ //#6363
-@80057 = ~Originally blessed by Shar, this armor has a long and interesting history. Only the greatest of thieves have ever owned this heavily enchanted armor. The essence of night has been woven into the dark set of armor so that it feels like normal armor but encloses the wearer in a mass of twisting shadows.
+@80056 = ~Подарок ночи +5~ //#6363
+@80057 = ~Изначально благословлённый Шар, этот доспех имеет долгую и интересную историю. Лишь величайшие из воров когда-либо владели этим мощным магическим артефактом. Сущность ночи была вплетена в его тёмную кожу таким образом, что он ощущается как обычный доспех, но окружает носителя множеством вьющихся теней.
 
 ПАРАМЕТРЫ:
 
-Equipped abilities:
-– Hide In Shadows: +20%
+Свойства экипировки:
+– Скрыться в тенях: +20%
 
-Класс защиты: 3 (5 vs. piercing and метательный)
+Класс защиты: 3 (5 против колющего и метательного)
 Требования:
- 3 Strength
+ Сила 3
 
 Вес: 5~ //#39548
-@80058 = ~Enkidu's Full Plate +3~ //#65033
-@80059 = ~This armor was created for Enkidu, a famed warrior from Kara-Tur. While none dared challenge him in fair combat, Enkidu was often subject to cowardly sneak attacks from assassins, ninjas and Wu-Jen.
+@80058 = ~Полный латный доспех Энкиду +3~ //#65033
+@80059 = ~Этот доспех был создан для Энкиду, прославленного воина из Кара-Тура. Хотя никто не осмеливался вызвать его на честный поединок, на Энкиду часто нападали наёмные убийцы, ниндзя и Ву-Джен.
 
 ПАРАМЕТРЫ:
 
-Equipped abilities:
-– Magic Resistance: +5%
-– Immunity to backstab
+Свойства экипировки:
+– Сопротивление магии: +5%
+– Иммунитет к ударам в спину
 
-Класс защиты: -2 (-6 vs. slashing, -5 vs. piercing and метательный)
+Класс защиты: -2 (-6 против рубящего, -5 против колющего и метательного)
 Требования:
- 15 Strength
+ Сила 15
 
 Вес: 45~ //#66422
-@80060 = ~Umber Hulk~
+@80060 = ~Бурый увалень~
 
-@80061 = ~праща +2~
+@80061 = ~Праща +2~
 
 //Journal Titles
 @90001 = ~Разбойные Рубаки Раукнера~
@@ -664,12 +699,24 @@ Equipped abilities:
 @90008 = ~Змеи Аббатора~
 @90009 = ~Культ Незрячего Ока - Бунгер Вайснер~
 @90010 = ~Таинственное предложение~
-@90011 = ~A failed Picnic~
+@90011 = ~Неудавшийся пикник~
 
 //EE Descriptions
 @100032   = ~Эльфийский длинный лук Африэль
 
-At an early age the elf Aphriel roamed the forests of Faerыn and became one of the greatest Rangers of our time. There was no scent she could not follow, and not one criminal was safe from her bow. It was only when she met a local merchant on a visit to the city of Baldur's Gate and fell passionately in love with him, that her days in the forest had come to an end. Their relationship was blessed with the young half-elf Perwell, and when he was kidnapped by bandits of the Sword Coast, Aphriel set out for one last time into the forests. During this trip the bow came into the hands of <CHARNAME>.
+В молодости эльфийка Африэль странствовала по лесам Фаэруна и стала одной из самых великих следопытов своего времени. Не было ни одной зацепки, которую она бы упустила, и ни один преступник не чувствовал себя в безопасности пока она была на страже. Ее лесная жизнь закончилась только тогда, когда во Вратах Балдура она повстречалась с местным торговцем и влюбилась в него без памяти. Плодом этих отношений стал молодой полуэльф Первелл, и когда на Побережье Меча его похитили бандиты, Африэль отправилась в леса в последний раз. Во время этого путешествия <CHARNAME> получил ее лук в свое распоряжение.
+
+ПАРАМЕТРЫ:
+
+Урон: +2 улучшение (метательный)
+THAC0: +3 улучшение
+Вес: 2
+Фактор скорости: 5
+Оружейный навык: длинный лук
+Тип: двуручное
+Требования: сила 6~ ~Эльфийский длинный лук Африэль
+
+В молодости эльфийка Африэль странствовала по лесам Фаэруна и стала одной из самых великих следопытов своего времени. Не было ни одной зацепки, которую она бы упустила, и ни один преступник не чувствовал себя в безопасности пока она была на страже. Ее лесная жизнь закончилась только тогда, когда во Вратах Балдура она повстречалась с местным торговцем и влюбилась в него без памяти. Плодом этих отношений стал молодой полуэльф Первелл, и когда на Побережье Меча его похитили бандиты, Африэль отправилась в леса в последний раз. Во время этого путешествия <CHARNAME> получила ее лук в свое распоряжение.
 
 ПАРАМЕТРЫ:
 
@@ -680,46 +727,45 @@ THAC0: +3 улучшение
 Оружейный навык: длинный лук
 Тип: двуручное
 Требования: сила 6~
-@100048   = ~This shield is polished to a high gloss and obviously magical. Scratches disappear and blood and dirt simply run off of its reflective surface. It can be presumed that it can even withstand the look of a basilisk.
+@100048   = ~Этот щит отполирован до яркого блеска и определенно зачарован. Любые царапины, кровь и грязь просто исчезают с его зеркальной поверхности. Вполне вероятно, что он сможет защитить даже от взгляда василиска.
 
 ПАРАМЕТРЫ:
 
-The wearer is protected against all types of petrification and forms of gaze attacks.
+Обладатель получает иммунитет к любым формам окаменения и атакам взглядом.
 
 Класс защиты: +1 улучшение
 Вес: 7
 Требования: сила 12~
 @100058   = ~Броня из кожи гибберлинга
 
-One of the byproducts of Geraldo's work with gibberlings was a high leather production. Since the painter only needed the fur for his colors, he sought a different use for the thick skin of the monsters... and found it. Unfortunately, the leather of gibberlings had some unexpected side effects and so Geraldo impatiently waited for a credulous soul to foist his experiment on.
+Одним из побочных продуктов работы Жеральдо с гибберлингами стало множество шкур. Так как для производства краски необходима лишь шерсть, он попытался найти другое применение толстой коже этих чудовищ... и преуспел в этом. К сожалению, кожа гибберлингов вызывает неожиданные побочные эффекты при ношении, и поэтому Жеральдо с нетерпением ждал, пока не найдет доверчивого дурака, которому можно будет всучить эту броню.
 
-The chroniclers are assuming that the great Geraldo laughs in his sleeve at the idea that some idiot would find this armor actually useful.
+Историки полагают, что великого Жеральдо очень веселила мысль о том, что какой-то идиот на самом деле посчитает эту броню эффективной.
 
 ПАРАМЕТРЫ:
 
-The character turns blue.
-
-Can only be removed by a 'Remove Curse' spell.
+Обладатель окрашивается в синий цвет.
 
 Класс защиты: 4
-Charisma: -3
-Resistance vs. projectile weapons: +10%
+Харизма: -3
+Сопротивление метательному оружию: +10%
 Вес: 7
 Требования: сила 6~
-@100086   = ~The priest of Moradin, Bashrik Sparklehammer, was considered as wise and true and within the community of liberal dwarves. He continued to fight against the secession of the surface dwarves and generally relished a high reputation. This hammer, charged with the thunderbolts of Moradin, was his greatest weapon in the fight against evil.
+@100086   = ~Священник Морадина, Башрик Искрящийся Молот, почитался свободными дварфами как мудрый и праведный дварф. Он боролся против раскола дварфов, живущих на поверхности, и пользовался всеобщим уважением. Этот молот, заряженный грозовой мощью Морадина, был его величайшим оружием против сил зла.
 
 ПАРАМЕТРЫ:
 
-THAC0: +2
-Урон: 1d4+3, +1 electrical damage
-Damage Тип: Crushing
-Фактор скорости: 2
-Оружейный навык: War Hammer
-Тип: одноручное
-Требования:
- Сила 9 
+Боевые особенности:
+ - При каждом успешном ударе жертва получает 1 единицу урона от электричества
 
-Вес: 5~
+THAC0: +2 улучшение
+Урон: 1D4 + 3
+Тип урона: дробящий
+Фактор скорости: 2
+Оружейный навык: боевой молот
+Тип: одноручный
+Вес: 5
+Требования: сила 9~
 
 //Karlini Journals
 @2000001   = ~Карлини Великолепный - книга заклинаний Карлини Великолепного
@@ -736,7 +782,9 @@ Damage Тип: Crushing
 
 @2000003   = ~Карлини Великолепный - книга заклинаний Карлини Великолепного
 
-Я отдал Игнатию книгу заклинаний Карлини Великолепного. После небольшого исследования он обнаружил заклинание, с помощью которого можно будет отследить Карлини. Я согласился  We gave Ygnatius the spellbook of the magnificent Karlini as promissed. After some research he found the fitting spell to track down Karlini and we agreed to oversee his task of casting the spell. For that we will meet with Ygnatius at the stone cirlce at Lion's Way.~
+Я отдал Игнатию книгу заклинаний Карлини Великолепного. После небольшого исследования он обнаружил заклинание, с помощью которого можно будет отследить Карлини. Я согласился на то, чтобы проследить за произнесением заклинания. Мы договорились встретиться с Игнатием у круга камней на Львином Пути.~ ~Карлини Великолепный - книга заклинаний Карлини Великолепного
+
+Я отдала Игнатию книгу заклинаний Карлини Великолепного. После небольшого исследования он обнаружил заклинание, с помощью которого можно будет отследить Карлини. Я согласилась на то, чтобы проследить за произнесением заклинания. Мы договорились встретиться с Игнатием у круга камней на Львином Пути.~
 
 @2000004   = ~Карлини Великолепный
 
@@ -752,15 +800,21 @@ Damage Тип: Crushing
 
 @2000006   = ~Карлини Великолепный
 
-We oversaw the casting of the spell but surprisingly a balor appeared and Ygnatius vanished. It was a tough fight to take the balor down but we did it. Unfortunately we don't know of a way to bring Ygnatius back from whereever he is right now.~
+Я проследил за произнесением заклинания, но к моему удивлению Игнатий пропал, и на его месте внезапно появился балор. Это была тяжелая битва, но у меня получилось одолеть его. К сожалению, теперь я не знаю, каким образом вернуть Игнатия из того места, в котором он сейчас находится.~ ~Карлини Великолепный
+
+Я проследила за произнесением заклинания, но к моему удивлению Игнатий пропал, и на его месте внезапно появился балор. Это была тяжелая битва, но у меня получилось одолеть его. К сожалению, теперь я не знаю, каким образом вернуть Игнатия из того места, в котором он сейчас находится.~
 
 @2000007   = ~Карлини Великолепный
 
-We oversaw the casting of the spell but surprisingly a balor appeared and Ygnatius vanished. Unexpectedly the fiend agreed on letting the two gnomes go for my soul in exchange. I refused the offer and the balor vanished into thin air.~
+Я проследил за произнесением заклинания, но к моему удивлению Игнатий пропал, и на его месте внезапно появился балор. Демон на удивление легко согласился отпустить двух гномов в обмен на мою душу. Я отказался от предложения и балор растворился в воздухе.~ ~Карлини Великолепный
+
+Я проследила за произнесением заклинания, но к моему удивлению Игнатий пропал, и на его месте внезапно появился балор. Демон на удивление легко согласился отпустить двух гномов в обмен на мою душу. Я отказалась от предложения и балор растворился в воздухе.~
 
 @2000008   = ~Карлини Великолепный
 
-We oversaw the casting of the spell but surprisingly a balor appeared and Ygnatius vanished. Unexpectedly the fiend agreed on letting the two gnomes go if we would answer some difficult questions about the Sword Coast correctly. Otherwise my soul would be his reward. By luck and effort I was able to answer all three questions correctly. In return the balor vanished into thin air but stayed true to his word and brought the two gnomes back save and sound. They in return were thankful - more or less- for their rescue. Gnomes ... In retrospect the delivered reward by theese two gnomes was fitting the needed efforts to solve the given tasks.~
+Я проследил за произнесением заклинания, но к моему удивлению Игнатий пропал, и на его месте внезапно появился балор. Демон на удивление легко согласился отпустить двух гномов, но только если я правильно отвечу на несколько непростых вопросов о Побережье Меча, а если я совершу ошибку, то он заберет мою душу. У меня получилось ответить правильно на все три вопроса. Балор исчез, но сдержал свое слово - два гнома вернулись обратно целыми и невредимыми. Они были благодарны за свое спасение - в какой-то степени. Гномы... Но в итоге полученная награда оказалась достойной всего того, что мне пришлось сделать.~ ~Карлини Великолепный
+
+Я проследила за произнесением заклинания, но к моему удивлению Игнатий пропал, и на его месте внезапно появился балор. Демон на удивление легко согласился отпустить двух гномов, но только если я правильно отвечу на несколько непростых вопросов о Побережье Меча, а если я совершу ошибку, то он заберет мою душу. У меня получилось ответить правильно на все три вопроса. Балор исчез, но сдержал свое слово - два гнома вернулись обратно целыми и невредимыми. Они были благодарны за свое спасение - в какой-то степени. Гномы... Но в итоге полученная награда оказалась достойной всего того, что мне пришлось сделать.~
 
 @2000009   = ~Карлини Великолепный~
 
@@ -768,7 +822,7 @@ We oversaw the casting of the spell but surprisingly a balor appeared and Ygnati
 
 @3000001   = ~Разведение гибберлингов во Вратах Балдура
 
-Travelling through the streets of Baldur's Gate we met a man who referred to himself as 'Geraldo the Magnificent'. He told us he had planned to create blue colour from the fur of gibberlings but when they started to breed uncontrollably he was forced to imprison them in his own house. He asked us to go to his house and deal with the monsters inside. By now there should be around 20 of the little beasts there.~
+При очередной прогулке по улицам Врат Балдура ко мне обратился мужчина, который представился как 'Жеральдо Лучезарный'. Он рассказал мне, как он хотел производить синюю краску из шерсти гибберлингов, но они начали бесконтрольно размножаться, и ему пришлось запереть их в своем доме. Жеральдо попросил меня пойти в его дом и расправиться с чудовищами. Сейчас там должно быть около двадцати зверьков.~
 @3000002   = ~Разведение гибберлингов во Вратах Балдура
 
 В доме Жеральдо было только два гибберлинга. Нужно вернуться к нему и отдать их шкуры.~
@@ -777,7 +831,7 @@ Travelling through the streets of Baldur's Gate we met a man who referred to him
 Жеральдо попросил меня отыскать остальных гибберлингов. Для того, чтобы упростить мне задачу, он вручил мне птицу по кличке Элминстер, которая будет оповещать о наличии гибберлингов поблизости. Жеральдо подсластил сделку и будет платить по 50 золотых монет за каждую шкуру гибберлинга, и пообещал магический предмет, если я смогу найти их всех.~
 @3000004   = ~Разведение гибберлингов во Вратах Балдура
 
-Я смог найти всех оставшихся гибберлингов. Когда Жеральдо об этом узнал, тоWe were able to find all the remaining gibberlings. When we informed Geraldo he inexplicably left, mumbling something about finding his luck somewhere else.~
+Я смог найти всех оставшихся гибберлингов. Когда Жеральдо об этом узнал, он беспардонно ушел, бубня что-то о том, как он попытает удачу в другом месте.~
 @3000005   = ~Разведение гибберлингов во Вратах Балдура
 
 Я сказал Жеральдо, что не собираюсь выполнять его поручение. Он пробубнил что-то о том, как попытает удачи в другом месте, и ушел.~ ~Разведение гибберлингов во Вратах Балдура
@@ -788,19 +842,23 @@ Travelling through the streets of Baldur's Gate we met a man who referred to him
 
 @3000007  = ~Змеи Аббатора
 
-I witnessed an ambuch at the Coast Way and found a journal from a dwarf named Bashrik. I should bring it to the Temple of Helm in Baldur's Gate.~
- 
+Я стал свидетелем нападения на Прибрежном Пути и нашел журнал дварфа по имени Башрик. Я могу принести его в храм Хелма во Вратах Балдура.~
+
 @3000008  = ~Змеи Аббатора
 
-I agreed to confront this Draglon who was mentioned in Bashrik's journal. As far as I know he might be in the Undercellars.~
+Я согласился найти упоминаемого в журнале Башрика Драглона. Насколько мне известно, он должен быть в Нижнем Погребе.~ ~Змеи Аббатора
+
+Я согласилась найти упоминаемого в журнале Башрика Драглона. Насколько мне известно, он должен быть в Нижнем Погребе.~
 
 @3000009  = ~Змеи Аббатора
 
-I confronted Draglon, but he escaped. I should return to the temple of Helm and talk to the dwarves.~
+Я нашел Драглона, но он смог сбежать. Мне нужно вернуться в храм Хелма и поговорить в дварфами.~ ~Змеи Аббатора
+
+Я нашла Драглона, но он смог сбежать. Мне нужно вернуться в храм Хелма и поговорить в дварфами.~
 
 @3000010  = ~Змеи Аббатора
 
-Волшебница Дженна A mage named Jenna keeps an artifact for the dwarves. She and her companion Jassir reside in the Northwestern District's tavern. I need to go there and tell her "Greetings from Mirjala" for password.~
+Волшебница Дженна забрала артефакт себе, чтобы уберечь его для дварфов. Она и ее компаньон Джассир сейчас живут в таверне в северо-западном районе. Мне нужно найти ее там и сказать пароль "Привет от Мирджалы".~
 
 @3000011  = ~Змеи Аббатора
 
@@ -814,4 +872,6 @@ I confronted Draglon, but he escaped. I should return to the temple of Helm and 
 
 @3000013  = ~Змеи Аббатора
 
-Я согласился осмотреть склад в юго-восточном районе Врат Балдура. I agreed to have a look at a warehouse in the Southeastern District of Baldur's Gate. We believe this to be the hideout from the Serpents of Abbathor. I will need a key to enter.~
+Я согласился осмотреть склад в юго-восточном районе Врат Балдура. Я уверен в том, что он является укрытием Змеев Аббатора. Но чтобы войти туда, мне понадобится ключ.~ ~Змеи Аббатора
+
+Я согласилась осмотреть склад в юго-восточном районе Врат Балдура. Я уверена в том, что он является укрытием Змеев Аббатора. Но чтобы войти туда, мне понадобится ключ.~
